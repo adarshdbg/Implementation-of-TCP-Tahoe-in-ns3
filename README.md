@@ -1,8 +1,8 @@
-# Revise Implementation of TCP TOHOE in ns-3
+# Revise Implementation of TCP TAHOE in ns-3
 
 ## Course Code: CO300
 
-## Assignment: #3
+## Assignment: #14
 
 ### Overview
 CUBIC TCP is the default TCP in Linux since 2007. One of the ns-3 developers has
