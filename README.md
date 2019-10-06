@@ -12,10 +12,10 @@ of TCP. So adding Tahoe back in the mainline of ns-3 would be a valuable additio
 
 
 ### Download ns-2 for TCP TAHOE implementation
-[download ns-2.35](https://sourceforge.net/projects/nsnam/files/allinone/ns-allinone-2.35/ns-allinone-2.35.tar.gz/download)   
+[download ns-3.23](https://www.nsnam.org/releases/ns-3-23/)   
 
-    go to ns-allinone-2.35/ns-2.35/tcp/linux/src
-    tcp_tahoe.c is the required file
+    go to ns-allinone-3.23/ns-3.23/src/internet/model/
+    tcp_tahoe.cc is the required file
 
 
 
