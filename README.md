@@ -11,12 +11,13 @@ TcpSocketBase. It turns out that many researchers still use Tahoe to teach the f
 of TCP. So adding Tahoe back in the mainline of ns-3 would be a valuable addition.
 
 
-### Download ns-2 for TCP TAHOE implementation
+### Download ns-3 for TCP TAHOE implementation
 [download ns-3.23](https://www.nsnam.org/releases/ns-3-23/)   
 
     go to ns-allinone-3.23/ns-3.23/src/internet/model/
     tcp_tahoe.cc is the required file
-
+    In ns3 version ns-3.23 the tcp tahoe is implemented which is take as a reference for 
+    implementing tcp tahoe in current ns3 version.
 
 
 ### References:
