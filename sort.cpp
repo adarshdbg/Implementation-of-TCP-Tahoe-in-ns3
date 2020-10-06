@@ -45,3 +45,12 @@ int main()
 	printArray(arr, n); 
 	return 0; 
 } 
+
+cout<"commit1"<<endl;
+cout<"commit1"<<endl;
+cout<"commit1"<<endl;
+cout<"commit1"<<endl;
+cout<"commit1"<<endl;
+cout<"commit1"<<endl;
+cout<"commit1"<<endl;
+cout<"commit1"<<endl;
